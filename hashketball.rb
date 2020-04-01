@@ -109,9 +109,8 @@ def game_hash
       blocks: 5,
       slam_dunks: 12},
       ]
+    }
   }
-}
-
-return stats
+  return stats
 end 
 p game_hash.class
